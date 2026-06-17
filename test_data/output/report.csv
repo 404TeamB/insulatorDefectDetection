@@ -1,0 +1,15 @@
+﻿filename,class,confidence
+1-1_DJI_0609.jpg,insulator,0.74
+1-1_DJI_0632.jpg,None,0.0
+100.jpg,insulator,0.92
+100.jpg,defect,0.86
+193.jpg,insulator,0.91
+193.jpg,defect,0.83
+209.jpg,insulator,0.95
+209.jpg,defect,0.88
+214.jpg,insulator,0.92
+214.jpg,defect,0.82
+244.jpg,insulator,0.92
+244.jpg,defect,0.81
+32-1_DJI_0666.jpg,None,0.0
+32-1_DJI_0674.jpg,None,0.0
